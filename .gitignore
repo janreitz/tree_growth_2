@@ -1,0 +1,5 @@
+*.jpg
+*.tif
+*.gif
+*$py.class
+sketch.properties
